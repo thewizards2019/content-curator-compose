@@ -1,0 +1,9 @@
+datacurator-sentiment/
+datacurator-profanity/
+datacurator-stream-aggregator/
+datacurator-preference-tagger/
+content-curator-ui/
+datacurator-stater/
+ingest-twitter/
+confluent-5.2.1/
+confluent-5.2.1-2.12.zip
